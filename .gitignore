@@ -1,0 +1,35 @@
+# Xcode generated files
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserdatad
+*.xcuserstate
+
+# File extensions
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+
+# macOS system files
+.DS_Store
+*.swp
+
+# Swift Package Manager related
+Packages/
+.build/
+
+# CocoaPods related (if applicable)
+Pods/
+
+# Carthage related
+Carthage/
+
+# fastlane related
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
